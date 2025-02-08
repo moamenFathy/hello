@@ -75,3 +75,15 @@
 	border-radius: 40px;
 	vertical-align: middle;
 }
+
+
+p {
+	font-size: 200px;
+	display: inline;
+}
+
+.glyphicon-heart{
+	/* padding: 50px; */
+	/* font-size: xx-large; */
+	color: red;
+}
