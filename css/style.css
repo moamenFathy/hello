@@ -1,5 +1,5 @@
 *{
-	font-family: roboto;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .container-fluid {
@@ -86,4 +86,13 @@ p {
 	/* padding: 50px; */
 	/* font-size: xx-large; */
 	color: red;
+}
+
+.myP1 {
+	font-size: 15px;
+}
+
+.myP2 {
+	font-size: 20px;
+	margin: 20px;
 }
